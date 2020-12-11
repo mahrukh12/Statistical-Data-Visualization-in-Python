@@ -1,4 +1,4 @@
-# Statistical Data Visualization
+# Statistical Data Visualization in Python
 This poroject include following Task
 * Task 1: Understanding the importance of Data Visualization techniques
 * Task 2: Creating Scatter Plots and Line Plots
