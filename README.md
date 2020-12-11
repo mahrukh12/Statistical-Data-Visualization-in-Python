@@ -1,6 +1,6 @@
 # Statistical Data Visualization
 This poroject include following Task
-Task 1: Understanding the importance of Data Visualization techniques
+* Task 1: Understanding the importance of Data Visualization techniques
 Task 2: Creating Scatter Plots and Line Plots
 Task 3: Creating Bar Charts and Subplots
 Task 4: Creating Box Plots and Histograms
